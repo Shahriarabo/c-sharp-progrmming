@@ -1,0 +1,15 @@
+D:\C#\jaggedarray\bin\Debug\net6.0\jaggedarray.exe
+D:\C#\jaggedarray\bin\Debug\net6.0\jaggedarray.deps.json
+D:\C#\jaggedarray\bin\Debug\net6.0\jaggedarray.runtimeconfig.json
+D:\C#\jaggedarray\bin\Debug\net6.0\jaggedarray.dll
+D:\C#\jaggedarray\bin\Debug\net6.0\jaggedarray.pdb
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.csproj.AssemblyReference.cache
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.AssemblyInfoInputs.cache
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.AssemblyInfo.cs
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.csproj.CoreCompileInputs.cache
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.dll
+D:\C#\jaggedarray\obj\Debug\net6.0\refint\jaggedarray.dll
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.pdb
+D:\C#\jaggedarray\obj\Debug\net6.0\jaggedarray.genruntimeconfig.cache
+D:\C#\jaggedarray\obj\Debug\net6.0\ref\jaggedarray.dll

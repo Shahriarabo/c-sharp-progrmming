@@ -1,0 +1,15 @@
+D:\C#\swap\bin\Debug\net6.0\swap.exe
+D:\C#\swap\bin\Debug\net6.0\swap.deps.json
+D:\C#\swap\bin\Debug\net6.0\swap.runtimeconfig.json
+D:\C#\swap\bin\Debug\net6.0\swap.dll
+D:\C#\swap\bin\Debug\net6.0\swap.pdb
+D:\C#\swap\obj\Debug\net6.0\swap.csproj.AssemblyReference.cache
+D:\C#\swap\obj\Debug\net6.0\swap.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\swap\obj\Debug\net6.0\swap.AssemblyInfoInputs.cache
+D:\C#\swap\obj\Debug\net6.0\swap.AssemblyInfo.cs
+D:\C#\swap\obj\Debug\net6.0\swap.csproj.CoreCompileInputs.cache
+D:\C#\swap\obj\Debug\net6.0\swap.dll
+D:\C#\swap\obj\Debug\net6.0\refint\swap.dll
+D:\C#\swap\obj\Debug\net6.0\swap.pdb
+D:\C#\swap\obj\Debug\net6.0\swap.genruntimeconfig.cache
+D:\C#\swap\obj\Debug\net6.0\ref\swap.dll

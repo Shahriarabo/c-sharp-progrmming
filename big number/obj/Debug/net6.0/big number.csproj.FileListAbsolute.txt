@@ -1,0 +1,15 @@
+C:\Users\Khadija\OneDrive\Desktop\big number\bin\Debug\net6.0\big number.exe
+C:\Users\Khadija\OneDrive\Desktop\big number\bin\Debug\net6.0\big number.deps.json
+C:\Users\Khadija\OneDrive\Desktop\big number\bin\Debug\net6.0\big number.runtimeconfig.json
+C:\Users\Khadija\OneDrive\Desktop\big number\bin\Debug\net6.0\big number.dll
+C:\Users\Khadija\OneDrive\Desktop\big number\bin\Debug\net6.0\big number.pdb
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.csproj.AssemblyReference.cache
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.AssemblyInfoInputs.cache
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.AssemblyInfo.cs
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.csproj.CoreCompileInputs.cache
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.dll
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\refint\big number.dll
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.pdb
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\big number.genruntimeconfig.cache
+C:\Users\Khadija\OneDrive\Desktop\big number\obj\Debug\net6.0\ref\big number.dll

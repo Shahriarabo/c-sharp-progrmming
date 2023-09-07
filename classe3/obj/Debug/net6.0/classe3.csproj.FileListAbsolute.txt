@@ -1,0 +1,15 @@
+C:\Users\Khadija\OneDrive\Desktop\classe3\bin\Debug\net6.0\classe3.exe
+C:\Users\Khadija\OneDrive\Desktop\classe3\bin\Debug\net6.0\classe3.deps.json
+C:\Users\Khadija\OneDrive\Desktop\classe3\bin\Debug\net6.0\classe3.runtimeconfig.json
+C:\Users\Khadija\OneDrive\Desktop\classe3\bin\Debug\net6.0\classe3.dll
+C:\Users\Khadija\OneDrive\Desktop\classe3\bin\Debug\net6.0\classe3.pdb
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.csproj.AssemblyReference.cache
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.AssemblyInfoInputs.cache
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.AssemblyInfo.cs
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.csproj.CoreCompileInputs.cache
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.dll
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\refint\classe3.dll
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.pdb
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\classe3.genruntimeconfig.cache
+C:\Users\Khadija\OneDrive\Desktop\classe3\obj\Debug\net6.0\ref\classe3.dll

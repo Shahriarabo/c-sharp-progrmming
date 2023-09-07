@@ -1,0 +1,15 @@
+D:\C#\2dimensionarray\bin\Debug\net6.0\2dimensionarray.exe
+D:\C#\2dimensionarray\bin\Debug\net6.0\2dimensionarray.deps.json
+D:\C#\2dimensionarray\bin\Debug\net6.0\2dimensionarray.runtimeconfig.json
+D:\C#\2dimensionarray\bin\Debug\net6.0\2dimensionarray.dll
+D:\C#\2dimensionarray\bin\Debug\net6.0\2dimensionarray.pdb
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.csproj.AssemblyReference.cache
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.AssemblyInfoInputs.cache
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.AssemblyInfo.cs
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.csproj.CoreCompileInputs.cache
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.dll
+D:\C#\2dimensionarray\obj\Debug\net6.0\refint\2dimensionarray.dll
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.pdb
+D:\C#\2dimensionarray\obj\Debug\net6.0\2dimensionarray.genruntimeconfig.cache
+D:\C#\2dimensionarray\obj\Debug\net6.0\ref\2dimensionarray.dll

@@ -1,0 +1,15 @@
+D:\C#\methode\bin\Debug\net6.0\methode.exe
+D:\C#\methode\bin\Debug\net6.0\methode.deps.json
+D:\C#\methode\bin\Debug\net6.0\methode.runtimeconfig.json
+D:\C#\methode\bin\Debug\net6.0\methode.dll
+D:\C#\methode\bin\Debug\net6.0\methode.pdb
+D:\C#\methode\obj\Debug\net6.0\methode.csproj.AssemblyReference.cache
+D:\C#\methode\obj\Debug\net6.0\methode.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\methode\obj\Debug\net6.0\methode.AssemblyInfoInputs.cache
+D:\C#\methode\obj\Debug\net6.0\methode.AssemblyInfo.cs
+D:\C#\methode\obj\Debug\net6.0\methode.csproj.CoreCompileInputs.cache
+D:\C#\methode\obj\Debug\net6.0\methode.dll
+D:\C#\methode\obj\Debug\net6.0\refint\methode.dll
+D:\C#\methode\obj\Debug\net6.0\methode.pdb
+D:\C#\methode\obj\Debug\net6.0\methode.genruntimeconfig.cache
+D:\C#\methode\obj\Debug\net6.0\ref\methode.dll
